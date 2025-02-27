@@ -1,0 +1,31 @@
+
+Étudiant.e 1 :
+Nom : e
+Adresse : e
+Note 1 : 0.0
+Note 2: 0.0
+
+Étudiant.e 2 :
+Nom : e
+Adresse : e
+Note 1 : 0.0
+Note 2: 0.0
+
+Étudiant.e 3 :
+Nom : ee
+Adresse : e
+Note 1 : 0.0
+Note 2: 0.0
+
+Étudiant.e 4 :
+Nom : ee
+Adresse : e
+Note 1 : 0.0
+Note 2: 0.0
+
+Étudiant.e 5 :
+Nom : ee
+Adresse : e
+Note 1 : 0.0
+Note 2: 0.0
+
